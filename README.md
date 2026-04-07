@@ -58,11 +58,6 @@ To gain hands-on experience through internships and real-world projects while en
 
 ---
 
-## 📊 GitHub Stats
-![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan20-creator&show_icons=true&theme=radical)
-
----
-
 ## 🌍 Connect With Me
 - 📧 Email: aalimani117@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/muskan-amin-391824363  
